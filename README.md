@@ -3,20 +3,19 @@
 
  <h2>About me</h2>
 🦸  I am a project manager with 5 years of experience and aspiring full-stack developer.
+🎓  I am currently studying Full-Stack Developer course at Yandex Practicum.
 
-<ul><h3>Products developed:</h3></ul>ul>
-     <li>💡  Online Portal for Tenants (web);</li> 
-     <li>💡  Broadcast Management System for shopping centers & retail (web & web application);</li> 
-     <li>💡  Hotel Website with room bookings & reservations functionality (web);</li> 
-     <li>💡  Restaurant Website with food order & delivery functionality (web & mobile);</li>
+<h3>Products developed:</h3>
+🦸  Online Portal for Tenants (web);
+🦸  Broadcast Management System for shopping centers & retail (web & web application);
+🦸  Hotel Website with room bookings & reservations functionality (web); 
+🦸  Restaurant Website with food order & delivery functionality (web & mobile);
      
-🎓  I am currently studying Full-Stack Developer course at Yandex Practicum.</li> 
-💡  <ul><strong>Student web-projects:</strong></ul> 
-      <li>Ono Tebe Nado;</li> 
-      <li>Posmotri V Okno;</li> 
+<h3>Student web-projects:</h3>
+🎓  Ono Tebe Nado;</li> 
+🎓  Posmotri V Okno;</li> 
       
 📍  My current location: Venezuela (GMT -04:00)
-    
 ✍️  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 ✉️  You can write me an email at https://t.me/mrromanpavlov, I will try to answer as soon as I can.
 📄  Please have a look at my website https://roman-pavlov.com/ for more details about me.

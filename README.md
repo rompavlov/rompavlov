@@ -19,7 +19,7 @@
 <h4>✍️ My contacts</h4>
 <li>Text me in <a href="https://t.me/mrromanpavlov">Telegram</a> to contact me;</li>
 <li>Visit my <a href="https://roman-pavlov.com">website</a> to find out more about me & my project portfolio.</li>
-<li>My current location: Venezuela (GMT -04:00;</li>
+<li>My current location: Venezuela <a href="https://www.worldtimebuddy.com/venezuela-caracas">GMT -04:00</a>;</li>
 
 <!---
 rompavlov/rompavlov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,13 +5,13 @@
 <li>Project manager with 5+ years of working experience.</li>
 <li>Full-Stack Developer at Yandex Practicum (web-development course).</li>
 
-<h4>🦸 Products developed, as PM:</h4>
+<h4>🦸 Products developed, as product manager:</h4>
 <li><a href="https://portalaura.com" target="_blank">Online Portal for Tenants (web)</a>;</li>
 <li><a href="https://proj-m-service.s-vl.ru" target="_blank">Broadcast Management System for shopping centers & retail (web & web app)</a>;</li>
 <li><a href="https://www.komela35.ru" target="_blank">Hotel Website with room bookings & reservations functionality (web)</a>;</li>
 <li><a href="https://nalavashe-vl.ru/">Restaurant Website with food order & delivery functionality(web & mobile)</a>;</li>
      
-<h4>🎓 Projects developed, as Web-developer:</h4>
+<h4>🎓 Projects developed, as web-developer:</h4>
 <li><a href="https://github.com/rompavlov/ono-tebe-nado">Ono Tebe Nado</a>;</li> 
 <li><a href="https://github.com/rompavlov/posmotri_v_okno">Posmotri V Okno</a>.</li> 
 

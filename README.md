@@ -6,10 +6,10 @@
 <li>Full-Stack Developer at Yandex Practicum (web-development course).</li>
 
 <h4>🦸 Web-products launched, as a product manager:</h4>
-<li><a href="https://portalaura.com" target="_blank">Online Portal for Tenants</a>;</li>
-<li><a href="https://proj-m-service.s-vl.ru" target="_blank">Broadcast Management System for shopping centers & retail</a>;</li>
-<li><a href="https://auramall.ru" target="_blank">Shopping Center Website with mobile & info-kiosks friendly content adaptation</a>;</li>
-<li><a href="https://www.komela35.ru" target="_blank">Hotel Website with room bookings & reservations functionality</a>;</li>
+<li><a href="https://portalaura.com" target="_blank">Online Portal for Tenants (web)</a>;</li>
+<li><a href="https://proj-m-service.s-vl.ru" target="_blank">Broadcast Management System for shopping centers & retail (web)</a>;</li>
+<li><a href="https://auramall.ru" target="_blank">Shopping Center Website with mobile & info-kiosks friendly content adaptation (web)</a>;</li>
+<li><a href="https://www.komela35.ru" target="_blank">Hotel Website with room bookings & reservations functionality (web)</a>;</li>
 <li><a href="https://nalavashe-vl.ru/">Restaurant Website with food order & delivery functionality (web & mobile apps)</a>;</li>
      
 <h4>🎓 Web-projects developed, as a web-developer:</h4>

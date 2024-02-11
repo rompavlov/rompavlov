@@ -5,20 +5,21 @@
 <p>🦸  I am a project manager with 5 years of experience and aspiring full-stack developer.</p>
 <p>🎓  I am currently studying Full-Stack Developer course at Yandex Practicum.</p>
 
-<h3>Products developed:</h3>
-<p>🦸  Online Portal for Tenants (web);</p>
-<li>🦸  Broadcast Management System for shopping centers & retail (web & web application);</li>
-<li>🦸  Hotel Website with room bookings & reservations functionality (web);</li>
-<li>🦸  Restaurant Website with food order & delivery functionality (web & mobile);</li>
+<h3>🦸 Products developed, as PM:</h3>
+<li>Online Portal for Tenants (web);</li>
+<li>Broadcast Management System for shopping centers & retail (web & web application);</li>
+<li>Hotel Website with room bookings & reservations functionality (web);</li>
+<li>Restaurant Website with food order & delivery functionality (web & mobile);</li>
      
-<h3>Student web-projects:</h3>
-🎓  Ono Tebe Nado;</li> 
-🎓  Posmotri V Okno;</li> 
-      
-📍  My current location: Venezuela (GMT -04:00)
-✍️  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
-✉️  You can write me an email at https://t.me/mrromanpavlov, I will try to answer as soon as I can.
-📄  Please have a look at my website https://roman-pavlov.com/ for more details about me.
+<h3>🎓 Projects developed, as Web-developer:</h3>
+<li>Ono Tebe Nado (web);</li> 
+<li>Posmotri V Okno (web)</li> 
+
+<h3>✍️ My contacts</h3>
+<p>📍  My current location: Venezuela (GMT -04:00)</p>
+<p>✍️  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion;</p>
+<p>✉️  You can write me an email at https://t.me/mrromanpavlov, I will try to answer as soon as I can;</p>
+<p>📄  Please have a look at my website https://roman-pavlov.com/ for more details about me.</p>
 
 <!---
 rompavlov/rompavlov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

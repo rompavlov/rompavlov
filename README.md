@@ -9,12 +9,12 @@
 <li><a target="_blank" href="https://portalaura.com">Online Portal for Tenants (web)</a>;</li>
 <li><a href="https://proj-m-service.s-vl.ru" target="_blank">Broadcast Management System for shopping centers & retail (web)</a>;</li>
 <li><a href="https://auramall.ru" target="_blank">Shopping Center Website with mobile & info-kiosks friendly content adaptation (web)</a>;</li>
-<li><a href="https://www.komela35.ru" target="_blank">Hotel Website with room bookings & reservations functionality (web)</a>;</li>
+<li><a href="https://www.komela35.ru" target="_blank">Hotel Website with room bookings & reservations functionality (Wordpress site)</a>;</li>
 <li><a href="https://nalavashe-vl.ru/" target="_blank">Restaurant Website with food order & delivery functionality (web & mobile apps)</a>;</li>
      
 <h4>🎓 Web-projects developed, as a web-developer:</h4>
-<li><a href="https://github.com/rompavlov/ono-tebe-nado" target="_blank">Ono Tebe Nado</a>;</li> 
-<li><a href="https://github.com/rompavlov/posmotri_v_okno" target="_blank">Posmotri V Okno</a>.</li> 
+<li><a href="https://github.com/rompavlov/ono-tebe-nado" target="_blank">Ono Tebe Nado (web-page)</a>;</li> 
+<li><a href="https://github.com/rompavlov/posmotri_v_okno" target="_blank">Posmotri V Okno (web-page)</a>.</li> 
 
 <h4>✍️ My contacts</h4>
 <li>Text me in <a href="https://t.me/mrromanpavlov" target="_blank">Telegram</a> to contact me;</li>

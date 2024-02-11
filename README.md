@@ -18,7 +18,7 @@
 <h4>✍️ My contacts</h4>
 <li>My current location: Venezuela (GMT -04:00;</li>
 <li>Telegram: https://t.me/mrromanpavlov to contact me;</li>
-<li>Personal website https://roman-pavlov.com/ for more details about me.</li>
+<li>Website: https://roman-pavlov.com/ to find out more about me.</li>
 
 <!---
 rompavlov/rompavlov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 <h1>Roman Pavlov</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=12A4D9&random=false&width=435&lines=Front-End+Developer)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=12A4D9&random=false&width=435&lines=Front-End+Developer" alt="Typing SVG" /></a>
 
  <h2><i class="fas fa-laptop"></i> About me</h2>
 - 💞️ I’m looking to collaborate on ...

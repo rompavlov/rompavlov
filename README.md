@@ -7,9 +7,9 @@
 
 <h3>Products developed:</h3>
 <p>🦸  Online Portal for Tenants (web);</p>
-🦸  Broadcast Management System for shopping centers & retail (web & web application);
-🦸  Hotel Website with room bookings & reservations functionality (web); 
-🦸  Restaurant Website with food order & delivery functionality (web & mobile);
+<li>🦸  Broadcast Management System for shopping centers & retail (web & web application);</li>
+<li>🦸  Hotel Website with room bookings & reservations functionality (web);</li>
+<li>🦸  Restaurant Website with food order & delivery functionality (web & mobile);</li>
      
 <h3>Student web-projects:</h3>
 🎓  Ono Tebe Nado;</li> 

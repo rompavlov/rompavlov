@@ -3,7 +3,7 @@
 
  <h2>About me</h2>
 <li>Project manager with 5+ years of working experience.</li>
-<li>Aspiring Full-Stack Developer at Yandex Practicum web-development course.</li>
+<li>Full-Stack Developer at Yandex Practicum (web-development course).</li>
 
 <h4>🦸 Products developed, as PM:</h4>
 <li>Online Portal for Tenants (web);</li>

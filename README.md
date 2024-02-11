@@ -6,7 +6,7 @@
 <li>Full-Stack Developer at Yandex Practicum (web-development course).</li>
 
 <h4>🦸 Products developed, as PM:</h4>
-<li><a href="https://portalaura.com" target="_blank"Online Portal for Tenants (web)</a></li>
+<li><a href="https://portalaura.com" target="_blank">Online Portal for Tenants (web)</a></li>
 <li>Broadcast Management System for shopping centers & retail (web & web application);</li>
 <li>Hotel Website with room bookings & reservations functionality (web);</li>
 <li>Restaurant Website with food order & delivery functionality (web & mobile);</li>

@@ -16,10 +16,10 @@
 <li>Posmotri V Okno (web)</li> 
 
 <h3>✍️ My contacts</h3>
-<p>📍  My current location: Venezuela (GMT -04:00)</p>
-<p>✍️  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion;</p>
-<p>✉️  You can write me an email at https://t.me/mrromanpavlov, I will try to answer as soon as I can;</p>
-<p>📄  Please have a look at my website https://roman-pavlov.com/ for more details about me.</p>
+<li>My current location: Venezuela (GMT -04:00)</li>
+<li>Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion;</li>
+<li>You can write me an email at https://t.me/mrromanpavlov, I will try to answer as soon as I can;</li>
+<li>Please have a look at my website https://roman-pavlov.com/ for more details about me.</li>
 
 <!---
 rompavlov/rompavlov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
